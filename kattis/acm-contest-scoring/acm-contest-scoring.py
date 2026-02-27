@@ -1,3 +1,6 @@
+# ACM Contest Scoring
+# https://open.kattis.com/problems/acm
+
 correct = 0
 total_time = 0 
 counter = 0

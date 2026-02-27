@@ -1,3 +1,6 @@
+# Eight Queens
+# https://open.kattis.com/problems/eightqueens
+
 row_count = 0
 my_list = []
 invalid = False

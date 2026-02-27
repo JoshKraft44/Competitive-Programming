@@ -1,3 +1,6 @@
+# Birthday Boy
+# https://open.kattis.com/problems/birthdayboy
+
 coworkers = int(input())
 if (coworkers == 0):
     print("10-28")

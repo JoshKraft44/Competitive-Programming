@@ -1,3 +1,6 @@
+# Credit Card Payment
+# https://open.kattis.com/problems/creditcardpayment
+
 from decimal import Decimal, ROUND_HALF_UP
 numberOfCases = int(input())
 

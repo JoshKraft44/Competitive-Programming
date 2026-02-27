@@ -1,3 +1,6 @@
+# I Hate the Number Nine
+# https://open.kattis.com/problems/ihatethenumbernine
+
 MOD = 1000000007
 
 t = int(input())

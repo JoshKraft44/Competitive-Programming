@@ -1,4 +1,5 @@
-
+# Pachyderm Peanut Packing
+# https://open.kattis.com/problems/pachydermpeanutpacking
 
 def get_boxes():
     global first_x_array

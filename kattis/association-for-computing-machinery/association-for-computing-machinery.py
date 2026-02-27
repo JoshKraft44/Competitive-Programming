@@ -1,3 +1,6 @@
+# Association for Computing Machinery
+# https://open.kattis.com/problems/acm2
+
 problems, first = input().strip().split()
 first = int(first)
 times = list(map(int, input().strip().split()))

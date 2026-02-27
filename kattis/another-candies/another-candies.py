@@ -1,3 +1,6 @@
+# Another Candies
+# https://open.kattis.com/problems/anothercandies
+
 numberCases = int(input())
 def solve(): 
     global totalCandies

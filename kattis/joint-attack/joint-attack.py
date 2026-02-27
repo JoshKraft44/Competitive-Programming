@@ -1,3 +1,6 @@
+# Joint Attack
+# https://open.kattis.com/problems/jointattack
+
 from fractions import Fraction
 
 n = int(input())
