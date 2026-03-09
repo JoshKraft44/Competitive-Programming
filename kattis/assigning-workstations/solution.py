@@ -1,3 +1,6 @@
+# Assigning Workstations
+# https://open.kattis.com/problems/assigningworkstations
+
 import heapq
 
 

@@ -1,3 +1,6 @@
+# Opening Ceremony
+# https://open.kattis.com/problems/openingceremony
+
 blocks = int(input())
 towers = sorted(map(int, input().split()))
 
