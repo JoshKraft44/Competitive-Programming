@@ -1,5 +1,4 @@
-# Watering Grass
-# https://open.kattis.com/problems/wateringgrass
+
 
 import math
 fileContinues = True
