@@ -53,3 +53,11 @@ def get_peanuts(first_x_array, first_y_array, second_x_array, second_y_array, bo
 while True: 
     first_x_array, first_y_array, second_x_array, second_y_array, box_size_array, numBoxes = get_boxes()
     get_peanuts(first_x_array, first_y_array, second_x_array, second_y_array, box_size_array, numBoxes)
+
+
+""" I solved this problem by storing the coordinates and sizes of each box and then checking every peanut 
+against each box to see where it landed. The logic worked, but my implementation was more complicated than
+necessary. I used multiple parallel arrays and several global variables to store the box information, which
+made the code harder to read and maintain. A cleaner approach would have been to store each box as a single
+tuple containing its coordinates and size, and avoid using globals altogether. This would simplify the data 
+structure and make the overall solution shorter and easier to understand."""

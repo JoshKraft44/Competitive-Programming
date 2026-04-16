@@ -10,3 +10,5 @@ for i in range(1, blocks + 1):
     charges = min(charges, (blocks - i) + towers[i - 1])
 
 print(charges)
+
+# This took me and Ethan 2? 3? hours. Lol
